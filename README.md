@@ -35,10 +35,6 @@ You don’t need coding skills – just curiosity and willingness to learn data 
    - 🎯 KPIs for **Total Sales, Quantity, Profit**.  
 
 ---
-
-## 📷 Dashboard Preview
-![Dashboard Screenshot](images/dashboard.png)
-
 ---
 
 ## 🛠️ Tools Used
